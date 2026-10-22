@@ -4,7 +4,7 @@ DBMS Project-Based Learning (PBL) project — Woxsen University, B.Tech CSE AIML
 
 A relational database (MySQL) with a small Python (Streamlit) front end to manage gym members, subscriptions, trainers, assessments, classes, bookings, attendance, equipment maintenance, payments and renewals. Business rules are enforced inside the database using constraints and triggers.
 
-**Author:** P.Gargeya (25WU0102198)
+**Author:** P.Sankeerth reddy(25WU0102193)
 
 ## Features
 
